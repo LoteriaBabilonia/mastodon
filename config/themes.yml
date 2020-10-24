@@ -1,3 +1,5 @@
 default: styles/application.scss
 contrast: styles/contrast.scss
 mastodon-light: styles/mastodon-light.scss
+avatar-cat: styles/avatar-cat.scss
+avatar-cat-light: styles/avatar-cat-light.scss
