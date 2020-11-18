@@ -1234,6 +1234,8 @@ zh-CN:
       <p>最初改编自 <a href="https://github.com/discourse/discourse">Discourse 隐私政策</a>.</p>
     title: "%{instance} 使用条款和隐私权政策"
   themes:
+    cat: 猫耳（暗色主题）
+    cat-light: 猫耳（亮色主题）
     contrast: Mastodon（高对比度）
     default: Mastodon（暗色主题）
     mastodon-light: Mastodon（亮色主题）
